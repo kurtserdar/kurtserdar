@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kurtserdar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
 - 📫 You can drop an email serdar.kurt@outlook.com
 
 <!---
